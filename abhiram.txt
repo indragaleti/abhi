@@ -6,4 +6,4 @@ echo git config --list
 echo git config --core.editor "456"
 echo git add <file name>
 echo git commit <file name>
-
+you must and should have to do some thing to get your vengance
