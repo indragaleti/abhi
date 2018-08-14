@@ -1,0 +1,9 @@
+echo git --version
+echo git status
+echo git config --global user.name
+echo git config --global user.email
+echo git config --list
+echo git config --core.editor "456"
+echo git add <file name>
+echo git commit <file name>
+
